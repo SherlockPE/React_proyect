@@ -1,6 +1,5 @@
 import Utility from "./Utility";
 import { FaRecycle } from "react-icons/fa6";
-import { GiButtonFinger } from "react-icons/gi";
 import { RiArrowDropDownLine } from "react-icons/ri";
 
 export default function Home() {
