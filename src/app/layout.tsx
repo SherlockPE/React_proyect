@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Create Next App",
+  title: "Fabri primera App",
   description: "Mi perfil de 42 en react",
 };
 
